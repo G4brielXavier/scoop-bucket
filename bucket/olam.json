@@ -4,7 +4,7 @@
     "homepage": "https://github.com/G4brielXavier/olam",
     "license": "BSD-3-Clause",
     "url": "https://github.com/G4brielXavier/olam/releases/download/v1.0.0/olam-v1.0.0-x86_64-pc-windows-msvc.zip",
-    "hash": "be390fa2c983e57c1391dcde1e7a0f21d337762d44ad1e663e5fa1f6d955cabb",
+    "hash": "0a4f900fd4d78e10039c3f043563e201abc3d33d1e235c2c615408fa3a4cb7da",
     "bin": "olam.exe",
     "checkver": "github",
     "autoupdate": {
