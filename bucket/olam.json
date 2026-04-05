@@ -3,7 +3,7 @@
     "description": "High-performance CLI for worldbuilders and storytellers to manage complex timelines and chronologies. Built in Rust with high-speed memory-mapping and powered by the Tequel cryptographic engine.",
     "homepage": "https://github.com/G4brielXavier/olam",
     "license": "BSD-3-Clause",
-    "url": "https://github.com/G4brielXavier/olam/releases/download/v1.0.0/olam-v1.0.0-x86_64-pc-windows-msvc.zip.zip",
+    "url": "https://github.com/G4brielXavier/olam/releases/download/v1.0.0/olam-v1.0.0-x86_64-pc-windows-msvc.zip",
     "hash": "be390fa2c983e57c1391dcde1e7a0f21d337762d44ad1e663e5fa1f6d955cabb",
     "bin": "olam.exe",
     "checkver": "github",
